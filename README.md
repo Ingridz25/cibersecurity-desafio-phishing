@@ -19,7 +19,7 @@ Este repositório contém recursos para a criação e exploração de um ambient
 
 ### **3. Resultado**
 
-
+![Alt text](./Resultados.jpeg "Optional title")
 
 - O SEToolkit clonou o site do Facebook e configurou o ambiente para capturar credenciais inseridas.
 - **Problema Encontrado**:
